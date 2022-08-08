@@ -1,0 +1,130 @@
+body {
+  background-color: #F9F5EB;
+  margin: 10px;
+  font-family: 'Merriweather', serif;
+  color: #222831;
+}
+
+.top-container {
+  color: #00ADB5;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.middle-container {
+  text-align: center;
+  margin: 60px auto 0 auto;
+}
+
+.marketing-pic {
+  width: 25%;
+  height: 25%;
+  float: left;
+  margin: 0 30px 0 0;
+}
+
+.web-desing-pic {
+  width: 25%;
+  height: 25%;
+  float: right;
+  margin: 0 0 0 30px;
+}
+
+h1 {
+  font-size: 5rem;
+  margin-top: 50px;
+  margin-bottom: 0px;
+  line-height: 2;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-top: 5px;
+  font-weight: normal;
+}
+
+h3 {
+  color: #00ADB5;
+}
+
+h4 {
+  color: #00ADB5;
+}
+
+p {
+  color: #222831;
+}
+
+a {
+  color: #222831;
+  margin: 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAE3D2;
+}
+
+hr {
+  color: #EAE3D2;
+  margin: 60px auto 60px auto;
+  width: 5%;
+  border: dotted 6px;
+  border-bottom: none;
+}
+
+.cloud-bottom {
+  position: absolute;
+  left: 300px;
+  top: 250px;
+}
+
+.cloud-top {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 200px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.bottom-container {
+  text-align: center;
+  padding-top: 30px;
+  background-color: #00ADB5;
+  width: auto;
+  height: 200px;
+  margin-top: 50px;
+}
+
+.footer-link {
+  margin: 100px auto;
+  padding-left: 10px;
+}
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #00ADB5, #00ADB5);
+  background-image: -moz-linear-gradient(top, #00ADB5, #00ADB5);
+  background-image: -ms-linear-gradient(top, #00ADB5, #00ADB5);
+  background-image: -o-linear-gradient(top, #00ADB5, #00ADB5);
+  background-image: linear-gradient(to bottom, #00ADB5, #00ADB5);
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: 'Merriweather', serif;
+  color: #EAE3D2;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #F9F5EB;
+  color: #00ADB5;
+  text-decoration: none;
+}
